@@ -1,0 +1,13 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <polyline points="10,10 30,10 15,30 35,30 20,50"
+    stroke="url(#gradient)" stroke-width="4" fill="none" />
+  <text x="50" y="40" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="url(#gradient)">
+    VoltX
+  </text>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stopColor="#d97aff" />
+      <stop offset="100%" stopColor="#6a0dad" />
+    </linearGradient>
+  </defs>
+</svg>
